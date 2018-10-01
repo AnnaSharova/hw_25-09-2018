@@ -1,0 +1,19 @@
+.rectangle {
+height: 600px;
+width: 900px;
+text-align: center;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+background-image: linear-gradient( hsla(230, 50%, 60%, 1), transparent);
+}
+	.circle {
+	height: 300px;
+	width: 300px;
+	background: conic-gradient(from 90deg, #9006FF, #0AA7E8, #07FF02, #E8BD0A, #FF410B, #9006FF);
+	position: relative;
+	z-index: 5;
+	border-radius: 50%;
+	margin: auto;
+	top: 150px;
+	}
